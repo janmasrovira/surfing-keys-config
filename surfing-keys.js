@@ -5,6 +5,7 @@ api.map("J", "d");
 api.map("K", "e");
 api.cmap('<Ctrl-j>', '<Tab>');
 api.cmap('<Ctrl-k>', '<Shift-Tab>');
+api.iunmap("<Ctrl-a>"); // Ctrl-a should select all text
 
 // set theme: See https://github.com/Foldex/surfingkeys-config
 
